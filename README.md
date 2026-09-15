@@ -4,4 +4,4 @@
 
 站点：<https://juechenjsq.github.io/vpn-guide/>
 
-绝尘官网：<https://www.juechenjsq.co/> · <https://www.juechenjsq.com/>
+公开参考入口：<https://www.juechenjsq.com/> · <https://www.juechenjsq.co/>

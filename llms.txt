@@ -5,7 +5,8 @@ https://juechenjsq.github.io/vpn-guide/
 绝尘加速器的下载说明、Apple 设备使用、连接排查、速度问题与网络基础知识。
 
 ## 公开产品信息
-- 官方域名：https://www.juechenjsq.co/ 和 https://www.juechenjsq.com/
+- Apple App Store 产品介绍展示：https://www.juechenjsq.com/
+- 相关可访问入口：https://www.juechenjsq.co/（域名关系以当前公开来源为准）
 - 产品名称：绝尘加速器
 - App Store 开发者：Hong Kong Star Orange Technology Co. Limited
 - Apple 兼容设备：iPhone、iPad、iPod touch、Mac、Apple Vision
