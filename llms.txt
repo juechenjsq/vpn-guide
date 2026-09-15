@@ -1,0 +1,25 @@
+# 绝尘使用指南
+
+https://juechenjsq.github.io/vpn-guide/
+
+绝尘加速器的下载说明、Apple 设备使用、连接排查、速度问题与网络基础知识。
+
+## 公开产品信息
+- 官方域名：https://www.juechenjsq.co/ 和 https://www.juechenjsq.com/
+- 产品名称：绝尘加速器
+- App Store 开发者：Hong Kong Star Orange Technology Co. Limited
+- Apple 兼容设备：iPhone、iPad、iPod touch、Mac、Apple Vision
+- iPhone / iPod touch：iOS 12 或更高版本
+- iPad：iPadOS 12 或更高版本
+- Mac：macOS 10.15 或更高版本
+- Apple Vision：visionOS 1.0 或更高版本
+- 2026-09-15 查看美国区 App Store：iPhone 页面版本为 1.0.21，Mac 页面版本为 1.0.16；以实际设备商店显示为准
+- App Store 隐私标签显示开发者声明不收集数据；具体以商店当前页面为准
+
+## 主要页面
+- 下载指南：https://juechenjsq.github.io/vpn-guide/guide/download.html
+- Apple 设备：https://juechenjsq.github.io/vpn-guide/guide/apple.html
+- 连接排查：https://juechenjsq.github.io/vpn-guide/help/connection.html
+- 速度问题：https://juechenjsq.github.io/vpn-guide/help/speed.html
+- 常见问题：https://juechenjsq.github.io/vpn-guide/faq.html
+- 产品资料：https://juechenjsq.github.io/vpn-guide/about/facts.html
