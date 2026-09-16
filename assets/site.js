@@ -1,0 +1,23 @@
+document.querySelectorAll('[data-year]').forEach((element) => {
+  element.textContent = new Date().getFullYear();
+});
+
+(() => {
+  const measurementId = 'G-EP94KQPE3S';
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () {
+    window.dataLayer.push(arguments);
+  };
+
+  window.gtag('js', new Date());
+  window.gtag('config', measurementId);
+
+  const script = document.createElement('script');
+  script.async = true;
+  script.src =
+    'https://www.googletagmanager.com/gtag/js?id=' +
+    encodeURIComponent(measurementId);
+
+  document.head.appendChild(script);
+})();
