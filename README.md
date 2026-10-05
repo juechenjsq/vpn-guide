@@ -1,7 +1,12 @@
-# 绝尘使用指南
+# 绝尘使用指南（优化版）
 
-绝尘加速器的下载来源、Apple 设备使用、连接排查、速度判断和常见问题。
+本版本已整合客户端截图与新增产品资料，重点优化：
 
-站点：<https://juechenjsq.github.io/vpn-guide/>
-
-公开参考入口：<https://www.juechenjsq.com/> · <https://www.juechenjsq.co/>
+- 首页突出每日 00:00-20:00 限时免费节点；
+- Windows / Android / 鸿蒙与 Apple 下载路径分流；
+- 连接页增加 Windows 11 24H2、状态 -1、DNS、虚拟网卡、模式排查；
+- 速度页增加 Telegram / TikTok / 海外应用排查；
+- FAQ 改为非重复长尾问题；
+- 产品事实集中到 facts 页面；
+- 新增真实客户端截图、移动端菜单、dateModified、sitemap lastmod；
+- 减少“核对/编辑说明/内容策略”式前台措辞。
