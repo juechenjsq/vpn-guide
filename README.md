@@ -1,12 +1,25 @@
-# 绝尘使用指南（优化版）
+# 绝尘使用指南
 
-本版本已整合客户端截图与新增产品资料，重点优化：
+绝尘加速器使用帮助站，提供下载安装、设备使用、连接故障、速度与应用问题以及常见问题说明。
 
-- 首页突出每日 00:00-20:00 限时免费节点；
-- Windows / Android / 鸿蒙与 Apple 下载路径分流；
-- 连接页增加 Windows 11 24H2、状态 -1、DNS、虚拟网卡、模式排查；
-- 速度页增加 Telegram / TikTok / 海外应用排查；
-- FAQ 改为非重复长尾问题；
-- 产品事实集中到 facts 页面；
-- 新增真实客户端截图、移动端菜单、dateModified、sitemap lastmod；
-- 减少“核对/编辑说明/内容策略”式前台措辞。
+## 主要内容
+
+- Windows、Android、鸿蒙、iPhone、iPad、Mac 下载与安装
+- 免费节点与账号使用说明
+- 连接失败、状态 -1、连接后无网络等问题排查
+- Windows 11 24H2、DNS、虚拟网卡相关处理方法
+- Telegram、TikTok 等应用的连接与加载问题
+- 客服、积分、邀新、版本号与常见账号问题
+- 公共 Wi-Fi 使用建议
+
+## 常用入口
+
+- 首页：`index.html`
+- 下载指南：`guide/download.html`
+- Apple 设备指南：`guide/apple.html`
+- 连接故障排查：`help/connection.html`
+- 速度与应用排查：`help/speed.html`
+- 常见问题：`faq.html`
+- 产品资料：`about/facts.html`
+
+网站内容会随产品功能、节点、活动和客户端版本变化而调整，实际使用时以客户端和官网当前信息为准。
